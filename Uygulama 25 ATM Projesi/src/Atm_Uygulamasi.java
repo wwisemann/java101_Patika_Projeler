@@ -58,8 +58,6 @@ public class Atm_Uygulamasi {
                 }
             }// 1.If-Else parantez
         }//While parantez
-
-
-
+        
     }
 }
